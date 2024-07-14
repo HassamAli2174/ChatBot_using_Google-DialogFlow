@@ -1,6 +1,20 @@
 # dialogflow_gcp_chatbot
 
-A new Flutter project.
+🤯Chat Bot App in Flutter using DialogFlow
+
+Flutter + Google DialogFlow
+
+without having any knowledge of ML and NLP Stuff you can create your own chat bot at the backend using Google cloud
+
+1.Create the backend(bot content) using DialogFLow
+2.Download API key from Google CLoud in JSON format
+3.Create Flutter App front end
+
+- Go to https://dialogflow.cloud.google.com/#/login and login using google account.
+- Login with Google Cloud with the same email as logged in with dialogflow.
+- Open the project on Google console having project ID same as one made at DialogFlow
+- Get API in JSON format and used in the code provided above in assets folder
+
 
 ## Getting Started
 
